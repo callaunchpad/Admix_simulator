@@ -1,9 +1,9 @@
-ancestorAgeno:       data/CEU.phgeno
-ancestorAind:        data/CEU.phind
-ancestorAsnp:        data/CEU.phsnp
-ancestorBgeno:       data/YRI.phgeno
-ancestorBind:        data/YRI.phind
-ancestorBsnp:        data/YRI.phsnp
+ancestorAgeno:       example/data/French.geno
+ancestorAind:        example/data/French.ind
+ancestorAsnp:        example/data/French_Yoruba.snp
+ancestorBgeno:       example/data/Yoruba.geno
+ancestorBind:        example/data/Yoruba.ind
+ancestorBsnp:        example/data/French_Yoruba.snp
 lambda:              100
 theta:               0.2
 n:                   100

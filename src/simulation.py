@@ -71,6 +71,7 @@ def run_simulation(params):
     index, free = {}, {}
     index['A'] = list(range(len(ind['A'])))
     index['B'] = list(range(len(ind['B'])))
+    print(index)
     active, free['A'], free['B'] = initialize_states(N, theta, index)
 
     data = [data_row(geno, active, 0, haploid)]
